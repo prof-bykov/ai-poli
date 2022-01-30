@@ -1,4 +1,4 @@
-# Bykov's R - Simple plot with ggplot2
+# Prof.Bykov's R - Simple plot with ggplot2
 
 # Lab goals
 #   Read a datafile into R
